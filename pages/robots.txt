@@ -1,0 +1,31 @@
+User-Agent: *
+Disallow: /search*
+Disallow: /*&page=
+Disallow: /*&par_level=
+Disallow: /*&par_height=
+Disallow: /*&max_length=
+Disallow: /*&min_length=
+Disallow: /*&max_spectrum=
+Disallow: /*&min_spectrum=
+Disallow: /*&max_watts=
+Disallow: /*&min_watts=
+Disallow: /*?page=
+Disallow: /*?par_level=
+Disallow: /*?par_height=
+Disallow: /*?max_length=
+Disallow: /*?min_length=
+Disallow: /*?max_spectrum=
+Disallow: /*?min_spectrum=
+Disallow: /*?max_watts=
+Disallow: /*?min_watts=
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /api
+Disallow: /api/*
+Disallow: /merp
+Allow: /
+Allow: /sitemap.xml
+
+Sitemap: https://aquariumpardata.com/sitemap.xml
+
+
