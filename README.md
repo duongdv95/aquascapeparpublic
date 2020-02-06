@@ -20,6 +20,17 @@ module.exports =
     "DOMAIN": "your custom domain"
   }
 ```
+5. create cognitoconfig.js
+```javascript
+module.exports = 
+
+{
+  region: "enter aws credentials here",
+  ClientId: "enter aws credentials here",
+  AuthFlow: "enter aws credentials here",
+  UserPoolId: "enter aws credentials here"
+}
+```
 # Development Environment
 
 ### `npm run dev`
