@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "aws-sdk": "^2.478.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "express-validator": "^5.3.1",
     "jsonwebtoken": "^8.5.1",
     "jwk-to-pem": "^2.0.1",
