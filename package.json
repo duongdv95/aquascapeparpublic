@@ -6,7 +6,7 @@
     "aws-sdk": "^2.478.0",
     "axios": "^0.18.0",
     "express-validator": "^5.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwk-to-pem": "^2.0.1",
     "lodash.groupby": "^4.6.0",
     "lodash.zip": "^4.2.0",
